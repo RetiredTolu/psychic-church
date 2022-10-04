@@ -1,5 +1,3 @@
-<?php
- <html>
+<html>
     <div>Hello</div>
 </html>
-?>
